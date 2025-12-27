@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I’m currently working on<br><br>Building a secure, scalable Email System using Java & Spring Boot<br><br>Developing microservices-based backend systems<br><br>Creating data analytics dashboards using Tableau<br><br>Enhancing skills in cloud & containerized architectures<br><br>🤝 I’m looking to collaborate on<br><br>Backend / Full-Stack Java projects<br><br>Microservices & REST API development<br><br>Data analytics & visualization projects<br><br>Open-source projects involving Java, Spring Boot, SQL, or Tableau<br><br>🆘 I’m looking for help with<br><br>Cloud-native deployments (Azure / Docker / Kubernetes)<br><br>System design for large-scale distributed applications<br><br>Best practices for secure & scalable backend architectures<br><br>🌱 I’m currently learning<br><br>Advanced Data Analytics & Visualization<br><br>Cloud computing (Azure fundamentals)<br><br>Docker & Kubernetes<br><br>System design & software architecture<br><br>💬 Ask me about<br><br>Java & Spring Boot microservices<br><br>Migrating monoliths to microservices<br><br>Secure coding & vulnerability remediation<br><br>Backend development for enterprise applications<br><br>Tableau dashboards & data storytelling<br><br>⚡ Fun fact<br><br>I can’t relax until I debug and solve a problem — even at 2 AM 😄
 
-<!--
-**Karthik0102/Karthik0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karthh.iii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Karthikgoud0102@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Karthik0102 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Karthik0102 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik0102 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Karthik0102 &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
