@@ -1,9 +1,126 @@
-# 💫 About Me:
-I’m currently working on<br><br>Building a secure, scalable Email System using Java & Spring Boot<br><br>Developing microservices-based backend systems<br><br>Creating data analytics dashboards using Tableau<br><br>Enhancing skills in cloud & containerized architectures<br><br>🤝 I’m looking to collaborate on<br><br>Backend / Full-Stack Java projects<br><br>Microservices & REST API development<br><br>Data analytics & visualization projects<br><br>Open-source projects involving Java, Spring Boot, SQL, or Tableau<br><br>🆘 I’m looking for help with<br><br>Cloud-native deployments (Azure / Docker / Kubernetes)<br><br>System design for large-scale distributed applications<br><br>Best practices for secure & scalable backend architectures<br><br>🌱 I’m currently learning<br><br>Advanced Data Analytics & Visualization<br><br>Cloud computing (Azure fundamentals)<br><br>Docker & Kubernetes<br><br>System design & software architecture<br><br>💬 Ask me about<br><br>Java & Spring Boot microservices<br><br>Migrating monoliths to microservices<br><br>Secure coding & vulnerability remediation<br><br>Backend development for enterprise applications<br><br>Tableau dashboards & data storytelling<br><br>⚡ Fun fact<br><br>I can’t relax until I debug and solve a problem — even at 2 AM 😄
+# Hi there 👋, I'm Venkata Karthik Goud
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karthh.iii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Karthikgoud0102@gmail.com) 
+I'm a Software Engineer with **3+ years of experience** in Java backend development, specializing in **Java, Spring Boot, Microservices, REST APIs, and SQL**. I have built enterprise applications for retail and BFSI clients, focusing on scalable, secure, and high-performance backend systems.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+I completed my **Master's in Information Technology** from **Central Michigan University** and am actively seeking **Software Engineer** and **Java Backend Engineer** opportunities.
+
+---
+
+## 🎯 Career Focus
+
+- Java Backend Development
+- Spring Boot & Microservices
+- REST API Development
+- Secure & Scalable Backend Systems
+- System Design
+- Continuous Learning and Problem Solving
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Java & Spring Boot Projects
+- Backend API Development
+- Microservices Architecture
+- Open Source Java Projects
+- Enterprise Software Development
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Docker
+- Kubernetes
+- Distributed Systems
+- Advanced Spring Security
+
+---
+
+## 💬 Ask Me About
+
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- SQL
+- Spring Security
+- Apache Kafka
+- JPA / Hibernate
+- JUnit
+- Git
+- Secure Coding Practices
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Java
+- SQL
+- PL/SQL
+
+### Backend
+- Spring Boot
+- Spring MVC
+- Spring Security
+- REST APIs
+- Microservices
+- JPA / Hibernate
+
+### Messaging
+- Apache Kafka
+- RabbitMQ
+
+### Databases
+- MySQL
+- PostgreSQL
+- Microsoft SQL Server
+- H2 Database
+
+### Tools & Technologies
+- Git
+- Maven
+- Jenkins
+- JUnit
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 📧 Email System API
+A Spring Boot backend application featuring:
+- Spring Security
+- JWT Authentication
+- Kafka & RabbitMQ
+- REST APIs
+- Email Scheduling
+- Draft Management
+- H2 Database
+
+### 💰 Personal Finance Tracker
+A Core Java application built to strengthen Java fundamentals while managing personal finance records.
+
+### 📚 Library Management System
+A backend application implementing CRUD operations, database integration, and object-oriented programming concepts.
+
+### 🛒 Online Shopping Cart
+A Java backend application demonstrating RESTful APIs, database integration, and layered architecture.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/karthik-java-developer
+- 📧 Email: pallavigandii@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving challenging backend problems and optimizing application performance. Nothing is more satisfying than finding the root cause of a complex bug and building clean, scalable solutions.
