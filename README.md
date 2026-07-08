@@ -117,7 +117,7 @@ A Java backend application demonstrating RESTful APIs, database integration, and
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/karthik-java-developer
-- 📧 Email: pallavigandii@gmail.com
+- 📧 Email: karthik.codess@gmail.com
 
 ---
 
