@@ -1,10 +1,14 @@
-# Hi there 👋, I'm Venkata Karthik Goud
+# Hi there 👋, I'm Karthik Gadudula
 
-## 💫 About Me
+## 👨‍💻 Java Backend Engineer
 
-I'm a Software Engineer with **3+ years of experience** in Java backend development, specializing in **Java, Spring Boot, Microservices, REST APIs, and SQL**. I have built enterprise applications for retail and BFSI clients, focusing on scalable, secure, and high-performance backend systems.
+I'm a **Java Backend Engineer with 3+ years of professional software engineering experience**, building and supporting enterprise applications using **Java, Spring Boot, Microservices, REST APIs, and SQL**.
 
-I completed my **Master's in Information Technology** from **Central Michigan University** and am actively seeking **Software Engineer** and **Java Backend Engineer** opportunities.
+At **Tata Consultancy Services (TCS)**, I contributed to enterprise client engagements for **USAA, Cisco, and CVS Health**, working across backend development, application modernization, REST API development, security remediation, testing, and production support.
+
+I earned my **Master of Science in Information Systems** from **Central Michigan University** with a **3.9/4.0 GPA**.
+
+I'm currently pursuing **Java Backend Engineer** and **Software Engineer** opportunities in the United States.
 
 ---
 
@@ -13,45 +17,59 @@ I completed my **Master's in Information Technology** from **Central Michigan Un
 - Java Backend Development
 - Spring Boot & Microservices
 - REST API Development
+- Enterprise Application Development
 - Secure & Scalable Backend Systems
-- System Design
-- Continuous Learning and Problem Solving
+- Application Modernization
+- Backend System Design
 
 ---
 
-## 🤝 Open to Collaborate On
+## 💼 Professional Experience
 
-- Java & Spring Boot Projects
-- Backend API Development
-- Microservices Architecture
-- Open Source Java Projects
-- Enterprise Software Development
+### Tata Consultancy Services (TCS)
+**Software Engineer | Jul 2021 – Aug 2026**
 
----
+Contributed to enterprise software engineering engagements for **USAA, Cisco, and CVS Health**.
 
-## 🌱 Currently Learning
+**USAA**
+- Contributed to the modernization of a legacy monolithic application into Spring Boot microservices.
+- Developed independent REST APIs and validated new service behavior against legacy application outputs.
+- Externalized hard-coded configuration values and application properties.
+- Used RestTemplate for service-to-service communication.
+- Supported debugging, CI/CD pipeline issues, and production-related troubleshooting.
 
-- System Design
-- Docker
-- Kubernetes
-- Distributed Systems
-- Advanced Spring Security
+**Cisco**
+- Served as a Stream Lead supporting junior engineers across application security remediation work.
+- Contributed to a team effort addressing **3,000+ Java and JavaScript security vulnerabilities**.
+- Worked on SQL Injection, reflected XSS, and secure coding remediation.
+- Reviewed fixes and validated application security using Checkmarx.
+- Contributed to the team's effort to improve application health/performance scores from approximately **40% to over 85%**.
 
----
+**CVS Health**
+- Developed Spring Boot REST APIs using Controller-Service-Repository architecture.
+- Implemented CRUD functionality for enterprise backend applications.
+- Built backend workflows for dynamic Excel report generation.
+- Worked with reusable Excel templates hosted in AWS S3.
+- Used Spring Data JPA with MySQL and PostgreSQL and worked with MongoDB for document-based storage.
+- Worked with existing Spring Security/OAuth authentication and authorization.
+- Tested backend services using JUnit and Postman.
 
-## 💬 Ask Me About
+> Note: Active TCS client engineering work was performed from Jul 2021 to Jul 2024. I was on approved educational leave from Aug 2024 until my resignation in Aug 2026 while completing my master's degree.
 
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- SQL
-- Spring Security
-- Apache Kafka
-- JPA / Hibernate
-- JUnit
-- Git
-- Secure Coding Practices
+### Central Michigan University
+**Student Assistant, IT Development | Jan 2025 – May 2026**
+
+- Worked on assigned development tickets involving university web applications.
+- Collaborated with university IT team members on application updates and enhancements.
+- Tested application and API changes, including Postman-based endpoint testing.
+
+### Grepthor Solutions
+**Java Developer Intern | May 2020 – Jun 2021**
+
+- Developed Java/Spring Boot backend functionality and REST APIs.
+- Implemented CRUD functionality for a CIBIL-based loan eligibility application.
+- Worked with MySQL and validated REST API behavior using Postman.
+- Collaborated as part of a five-person intern development team.
 
 ---
 
@@ -60,67 +78,171 @@ I completed my **Master's in Information Technology** from **Central Michigan Un
 ### Languages
 - Java
 - SQL
-- PL/SQL
 
 ### Backend
 - Spring Boot
 - Spring MVC
+- Spring Data JPA
 - Spring Security
 - REST APIs
 - Microservices
 - JPA / Hibernate
-
-### Messaging
-- Apache Kafka
-- RabbitMQ
+- OAuth
+- Apache Struts
 
 ### Databases
 - MySQL
 - PostgreSQL
-- Microsoft SQL Server
-- H2 Database
+- MongoDB
 
-### Tools & Technologies
-- Git
-- Maven
+### Cloud & DevOps
+- AWS S3
 - Jenkins
+- Maven
+- CI/CD
+- Git
+- Bitbucket
+
+### Testing & Security
 - JUnit
 - Postman
-- IntelliJ IDEA
-- VS Code
+- Checkmarx
+- Secure Coding
+- SQL Injection Prevention
+- XSS Prevention
 
 ---
 
-## 📌 Featured Projects
+## 🚗 Featured Project
 
-### 📧 Email System API
-A Spring Boot backend application featuring:
+### GaragePulse — Auto Service Management System
+
+**Java | Spring Boot | MySQL | REST APIs | Authentication**
+
+GaragePulse was developed as a **five-person capstone project at Central Michigan University** for a local automotive mechanic looking to replace a manual paper-based service workflow.
+
+My primary contributions were the **Customer Management** and **Authentication/Login** modules.
+
+Key functionality included:
+
+- Customer CRUD operations
+- Customer search by phone number
+- Vehicle information management
+- Customer service history
+- New service request creation
+- Token-based authentication
+- Hashed password storage
+- Role-based access for Owner/Admin, Mechanic, and Front Desk users
+
+---
+
+## 🧪 Additional Java Projects
+
+### Email System API
+
+Spring Boot backend project built to practice:
+
+- REST API development
 - Spring Security
-- JWT Authentication
-- Kafka & RabbitMQ
-- REST APIs
-- Email Scheduling
-- Draft Management
+- JWT authentication
+- Kafka and RabbitMQ
+- Email scheduling
+- Draft management
 - H2 Database
 
-### 💰 Personal Finance Tracker
-A Core Java application built to strengthen Java fundamentals while managing personal finance records.
+### Personal Finance Tracker
 
-### 📚 Library Management System
-A backend application implementing CRUD operations, database integration, and object-oriented programming concepts.
+Core Java application developed while strengthening **Java 8 fundamentals and object-oriented programming concepts**.
 
-### 🛒 Online Shopping Cart
-A Java backend application demonstrating RESTful APIs, database integration, and layered architecture.
+### Library Management System
+
+Java backend practice project implementing:
+
+- CRUD operations
+- Database integration
+- Object-oriented programming concepts
+
+### Online Shopping Cart
+
+Java backend practice application demonstrating:
+
+- RESTful APIs
+- Database integration
+- Layered backend architecture
+
+---
+
+## 🏅 Software Engineering Job Simulations
+
+### JPMorgan Chase & Co. — Software Engineering Job Simulation
+**Forage | Dec 2025**
+
+Completed practical software engineering tasks involving:
+
+- Project setup
+- Kafka integration
+- H2 integration
+- REST API integration
+- REST API controller development
+
+### Hewlett Packard Enterprise — Software Engineering Job Simulation
+**Forage | Dec 2025**
+
+Completed practical software engineering tasks involving:
+
+- RESTful web service design
+- Building a basic RESTful web service
+- Data upload functionality
+- Unit testing
+
+> These were virtual job simulations completed through Forage and are listed separately from professional employment experience.
+
+---
+
+## 🎓 Education
+
+### Central Michigan University
+**Master of Science in Information Systems**
+
+**Jul 2024 – May 2026**
+
+- GPA: **3.9 / 4.0**
+- Mount Pleasant, Michigan
+
+### Sri Indu College of Engineering and Technology
+**Bachelor of Technology in Electronics and Communication Engineering**
+
+**Jul 2017 – Jul 2021**
+
+---
+
+## 🌱 Currently Strengthening
+
+- System Design
+- Docker
+- Kubernetes
+- Distributed Systems
+- Advanced Spring Security
+- Cloud Technologies
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/karthik-java-developer
-- 📧 Email: karthik.codess@gmail.com
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/karthik-java-developer/
+
+🌐 **Portfolio:**  
+https://karthik0102.github.io/
+
+📧 **Email:**  
+Karthik.codess@gmail.com
+
+💻 **GitHub:**  
+https://github.com/Karthik0102
 
 ---
 
-## ⚡ Fun Fact
+## 🚀 Career Goal
 
-I enjoy solving challenging backend problems and optimizing application performance. Nothing is more satisfying than finding the root cause of a complex bug and building clean, scalable solutions.
+I'm focused on building reliable, scalable, and secure backend systems and am actively pursuing opportunities as a **Java Backend Engineer / Software Engineer** where I can contribute my enterprise development experience while continuing to grow in distributed systems, cloud technologies, and backend architecture.
